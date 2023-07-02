@@ -1,11 +1,11 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Nguyen Hungz</h1>
 <p align="center">
-  <h3 align="center">Developer THPT TAY THUY ANH 🇻🇳 </h3>
+  <h3 align="center">THPT TAY THUY ANH High School</h3>
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
+- ✍ I'm a middle software developer at [NguyenHungFireWall](facebook.com/nghungzz).
 
 <br />
 
@@ -20,15 +20,9 @@
   <a href="https://www.facebook.com/nghungzz" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/nguyenhungz" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
   <a href="mailto:nguyenhungpc16@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
